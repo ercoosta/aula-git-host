@@ -1,4 +1,11 @@
-<?php
-echo "<h1>Ola Mundo!</h1>\n";
-
-echo "<h3>Aula de como usar o GIT e Ambiente de Produção</h3>.\n";
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>Hostgator com Git !!!</h1>
+</body>
+</html>
